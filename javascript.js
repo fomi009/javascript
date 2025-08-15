@@ -103,7 +103,7 @@ console.log(student);
 student.courses[2] = 'CN';
 console.log(student);
 
-// destructors
+// destructuring
  let first, second = ["apple", "banana"];
 
 // spread
